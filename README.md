@@ -1,6 +1,8 @@
 
 # AdventureWorks Database Analysis
 
+Dashboard Link => https://app.powerbi.com/groups/me/reports/9fac5412-ec91-43c8-8335-91e9eac4d1ee/ReportSection?experience=power-bi
+
 This project involves creating a fact table for the AdventureWorks database and visualizing various aspects of the data using Power BI. The AdventureWorks database is a sample database provided by Microsoft, containing data for a fictitious, multinational manufacturing company.
 
 
